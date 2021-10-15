@@ -1,0 +1,23 @@
+
+Hi Thank You for buying from Cheapestsmmscript.online
+
+
+---------------------------------------------------
+
+
+ADMIN LOGIN
+
+
+USERNAME : admin@cheapestsmmscript.online
+PASSWORD : cheapestsmmscript
+
+
+
+
+INSTALLATION
+
+
+upload database.sql in your database
+
+then open public_html/app/config.php
+
